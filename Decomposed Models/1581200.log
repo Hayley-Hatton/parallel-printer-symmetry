@@ -1,0 +1,277 @@
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 5
+Best (46939.7):
+(0x7f977c06d430: 46253.8)
+(0x7f977c053690: 46939.7)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 22256.7, Volume: 46253.8)
+    Sub Mesh [-1]: (Area: 22661.1, Volume: 46939.7)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [3]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [1]: (Area: 22256.7, Volume: 46253.8)
+    Sub Mesh [2]: (Area: 22661.1, Volume: 46939.7)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 43489.9 ms.
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 14
+Best (37829.9):
+(0x7f14dc011870: 22590.2)
+(0x7f14dc0c15c0: 37829.9)
+(0x7f14dc1e5e80: 32773.4)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 16257.7, Volume: 22590.2)
+    Sub Mesh [-1]: (Area: 35283.5, Volume: 70603.3)
+        Sub Mesh [-1]: (Area: 19966.6, Volume: 37829.9)
+        Sub Mesh [-1]: (Area: 16477.5, Volume: 32773.4)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [4]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [1]: (Area: 16257.7, Volume: 22590.2)
+    Sub Mesh [5]: (Area: 35283.5, Volume: 70603.3)
+        Sub Mesh [2]: (Area: 19966.6, Volume: 37829.9)
+        Sub Mesh [3]: (Area: 16477.5, Volume: 32773.4)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 48310.2 ms.
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 29
+Best (26047.9):
+(0x7f5b0c010920: 26047.9)
+(0x7f5b0c1430a0: 20834.5)
+(0x7f5b0c059530: 21997.7)
+(0x7f5b0c18b9e0: 24313.4)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 16986.5, Volume: 26047.9)
+    Sub Mesh [-1]: (Area: 34238.1, Volume: 67145.6)
+        Sub Mesh [-1]: (Area: 12450.3, Volume: 20834.5)
+        Sub Mesh [-1]: (Area: 22939.6, Volume: 46311.1)
+            Sub Mesh [-1]: (Area: 11261.5, Volume: 21997.7)
+            Sub Mesh [-1]: (Area: 12645.2, Volume: 24313.4)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [6]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [1]: (Area: 16986.5, Volume: 26047.9)
+    Sub Mesh [5]: (Area: 34238.1, Volume: 67145.6)
+        Sub Mesh [2]: (Area: 12450.3, Volume: 20834.5)
+        Sub Mesh [7]: (Area: 22939.6, Volume: 46311.1)
+            Sub Mesh [3]: (Area: 11261.5, Volume: 21997.7)
+            Sub Mesh [4]: (Area: 12645.2, Volume: 24313.4)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 60214.2 ms.
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 436
+Best (16066.8):
+(0x7f3848097640: 15015.9)
+(0x7f38480786b0: 11739.2)
+(0x7f38480b4690: 14427.1)
+(0x7f384843c2e0: 12342.7)
+(0x7f384801af60: 8656)
+(0x7f3848405e60: 16066.8)
+(0x7f384808db70: 14945.9)
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 20502.5, Volume: 41785.6)
+        Sub Mesh [-1]: (Area: 6917.97, Volume: 15015.9)
+        Sub Mesh [-1]: (Area: 14296.1, Volume: 26769.7)
+            Sub Mesh [-1]: (Area: 8046.37, Volume: 14427.1)
+            Sub Mesh [-1]: (Area: 7140.55, Volume: 12342.7)
+    Sub Mesh [-1]: (Area: 24944.8, Volume: 51407.9)
+        Sub Mesh [-1]: (Area: 13549.8, Volume: 27806)
+            Sub Mesh [-1]: (Area: 6085.29, Volume: 11739.2)
+            Sub Mesh [-1]: (Area: 8170.14, Volume: 16066.8)
+        Sub Mesh [-1]: (Area: 12323.5, Volume: 23601.9)
+            Sub Mesh [-1]: (Area: 4801.57, Volume: 8656)
+            Sub Mesh [-1]: (Area: 8058.2, Volume: 14945.9)
+Subdividing result...
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [13]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [8]: (Area: 20502.5, Volume: 41785.6)
+        Sub Mesh [1]: (Area: 6917.97, Volume: 15015.9)
+        Sub Mesh [11]: (Area: 14296.1, Volume: 26769.7)
+            Sub Mesh [3]: (Area: 8046.37, Volume: 14427.1)
+            Sub Mesh [4]: (Area: 7140.55, Volume: 12342.7)
+    Sub Mesh [12]: (Area: 24944.8, Volume: 51407.9)
+        Sub Mesh [9]: (Area: 13549.8, Volume: 27806)
+            Sub Mesh [2]: (Area: 6085.29, Volume: 11739.2)
+            Sub Mesh [6]: (Area: 8170.14, Volume: 16066.8)
+        Sub Mesh [10]: (Area: 12323.5, Volume: 23601.9)
+            Sub Mesh [5]: (Area: 4801.57, Volume: 8656)
+            Sub Mesh [7]: (Area: 8058.2, Volume: 14945.9)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 73260.2 ms.
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 879
+Best (16639.3):
+(0x7f278802c140: 16284.8)
+(0x7f27880fab50: 13889.5)
+(0x7f278803cd50: 7281.7)
+(0x7f2788090670: 16639.3)
+(0x7f278806aa50: 11714.5)
+(0x7f2788036590: 16583.4)
+(0x7f2788026700: 10800.3)
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 19558.9, Volume: 40205.8)
+        Sub Mesh [-1]: (Area: 7950.41, Volume: 16284.8)
+        Sub Mesh [-1]: (Area: 12168.1, Volume: 23921)
+            Sub Mesh [-1]: (Area: 3689.86, Volume: 7281.7)
+            Sub Mesh [-1]: (Area: 9081.13, Volume: 16639.3)
+    Sub Mesh [-1]: (Area: 25513.6, Volume: 52987.7)
+        Sub Mesh [-1]: (Area: 15097.4, Volume: 30472.9)
+            Sub Mesh [-1]: (Area: 7649.24, Volume: 13889.5)
+            Sub Mesh [-1]: (Area: 8488, Volume: 16583.4)
+        Sub Mesh [-1]: (Area: 11166.5, Volume: 22514.8)
+            Sub Mesh [-1]: (Area: 6722.9, Volume: 11714.5)
+            Sub Mesh [-1]: (Area: 5710.67, Volume: 10800.3)
+Subdividing result...
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [12]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [8]: (Area: 19558.9, Volume: 40205.8)
+        Sub Mesh [1]: (Area: 7950.41, Volume: 16284.8)
+        Sub Mesh [11]: (Area: 12168.1, Volume: 23921)
+            Sub Mesh [3]: (Area: 3689.86, Volume: 7281.7)
+            Sub Mesh [4]: (Area: 9081.13, Volume: 16639.3)
+    Sub Mesh [13]: (Area: 25513.6, Volume: 52987.7)
+        Sub Mesh [9]: (Area: 15097.4, Volume: 30472.9)
+            Sub Mesh [2]: (Area: 7649.24, Volume: 13889.5)
+            Sub Mesh [6]: (Area: 8488, Volume: 16583.4)
+        Sub Mesh [10]: (Area: 11166.5, Volume: 22514.8)
+            Sub Mesh [5]: (Area: 6722.9, Volume: 11714.5)
+            Sub Mesh [7]: (Area: 5710.67, Volume: 10800.3)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 76189.1 ms.
+Validating mesh...
+MESH ERROR: Mesh self-intersects! Attempting repair...
+Successfully repaired! Continuing...
+Mesh is valid.
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 1522
+Best (17545):
+(0x55fd9b185ff0: 17545)
+(0x55fd9b1601f0: 14943.3)
+(0x55fd9ad25160: 13754.2)
+(0x55fd9b32d570: 15616.4)
+(0x55fd9b3d67a0: 13911.2)
+(0x55fd9aef5190: 7868.01)
+(0x55fd9e279120: 9555.38)
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [-1]: (Area: 22527.2, Volume: 46915.6)
+        Sub Mesh [-1]: (Area: 8529.89, Volume: 17545)
+        Sub Mesh [-1]: (Area: 14521.2, Volume: 29370.6)
+            Sub Mesh [-1]: (Area: 7665.34, Volume: 13754.2)
+            Sub Mesh [-1]: (Area: 7923.11, Volume: 15616.4)
+    Sub Mesh [-1]: (Area: 22294.4, Volume: 46277.9)
+        Sub Mesh [-1]: (Area: 11405.1, Volume: 22811.3)
+            Sub Mesh [-1]: (Area: 7997.5, Volume: 14943.3)
+            Sub Mesh [-1]: (Area: 4394.25, Volume: 7868.01)
+        Sub Mesh [-1]: (Area: 11858, Volume: 23466.6)
+            Sub Mesh [-1]: (Area: 6742.16, Volume: 13911.2)
+            Sub Mesh [-1]: (Area: 5774.72, Volume: 9555.38)
+Subdividing result...
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [12]: (Area: 43601.3, Volume: 93193.5)
+    Sub Mesh [11]: (Area: 22527.2, Volume: 46915.6)
+        Sub Mesh [1]: (Area: 8529.89, Volume: 17545)
+        Sub Mesh [8]: (Area: 14521.2, Volume: 29370.6)
+            Sub Mesh [3]: (Area: 7665.34, Volume: 13754.2)
+            Sub Mesh [4]: (Area: 7923.11, Volume: 15616.4)
+    Sub Mesh [13]: (Area: 22294.4, Volume: 46277.9)
+        Sub Mesh [10]: (Area: 11405.1, Volume: 22811.3)
+            Sub Mesh [2]: (Area: 7997.5, Volume: 14943.3)
+            Sub Mesh [6]: (Area: 4394.25, Volume: 7868.01)
+        Sub Mesh [9]: (Area: 11858, Volume: 23466.6)
+            Sub Mesh [5]: (Area: 6742.16, Volume: 13911.2)
+            Sub Mesh [7]: (Area: 5774.72, Volume: 9555.38)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 86368.6 ms.

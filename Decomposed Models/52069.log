@@ -1,0 +1,346 @@
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 5
+Best (7481.77):
+(0x55ef61468430: 7481.77)
+(0x55ef61467680: 7468.42)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 2714.58, Volume: 7481.77)
+    Sub Mesh [-1]: (Area: 2636.48, Volume: 7468.42)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [3]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [1]: (Area: 2714.58, Volume: 7481.77)
+    Sub Mesh [2]: (Area: 2636.48, Volume: 7468.42)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 356.264 ms.
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 9
+Best (5942.2):
+(0x7f04a400a220: 4367.54)
+(0x7f04a4003420: 5942.2)
+(0x7f04a402fdb0: 4640.45)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 3451.11, Volume: 9007.99)
+        Sub Mesh [-1]: (Area: 1679.27, Volume: 4367.54)
+        Sub Mesh [-1]: (Area: 1771.84, Volume: 4640.45)
+    Sub Mesh [-1]: (Area: 1899.95, Volume: 5942.2)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [4]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [5]: (Area: 3451.11, Volume: 9007.99)
+        Sub Mesh [1]: (Area: 1679.27, Volume: 4367.54)
+        Sub Mesh [3]: (Area: 1771.84, Volume: 4640.45)
+    Sub Mesh [2]: (Area: 1899.95, Volume: 5942.2)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 554.864 ms.
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 57
+Best (4161.29):
+(0x5578f1b2c8b0: 4161.29)
+(0x5578f1b13be0: 4027.32)
+(0x5578f1b1da80: 3397.05)
+(0x5578f1b09890: 3364.54)
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 2701.87, Volume: 7558.34)
+        Sub Mesh [-1]: (Area: 1592.08, Volume: 4161.29)
+        Sub Mesh [-1]: (Area: 1109.79, Volume: 3397.05)
+    Sub Mesh [-1]: (Area: 2649.19, Volume: 7391.86)
+        Sub Mesh [-1]: (Area: 1526.22, Volume: 4027.32)
+        Sub Mesh [-1]: (Area: 1122.96, Volume: 3364.54)
+Subdividing result...
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [7]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [6]: (Area: 2701.87, Volume: 7558.34)
+        Sub Mesh [1]: (Area: 1592.08, Volume: 4161.29)
+        Sub Mesh [3]: (Area: 1109.79, Volume: 3397.05)
+    Sub Mesh [5]: (Area: 2649.19, Volume: 7391.86)
+        Sub Mesh [2]: (Area: 1526.22, Volume: 4027.32)
+        Sub Mesh [4]: (Area: 1122.96, Volume: 3364.54)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 806.401 ms.
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 1091
+Best (2702.25):
+(0x7f060401f4d0: 2632.52)
+(0x7f060407e5e0: 2702.25)
+(0x7f060400efa0: 2545.18)
+(0x7f0604012a60: 1717.14)
+(0x7f0604016de0: 1562.25)
+(0x7f0604005fb0: 2100.65)
+(0x7f06040228b0: 1690.2)
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 2557.91, Volume: 6894.84)
+        Sub Mesh [-1]: (Area: 1167.61, Volume: 2632.52)
+        Sub Mesh [-1]: (Area: 1390.3, Volume: 4262.32)
+            Sub Mesh [-1]: (Area: 849.889, Volume: 2545.18)
+            Sub Mesh [-1]: (Area: 540.413, Volume: 1717.14)
+    Sub Mesh [-1]: (Area: 2793.15, Volume: 8055.35)
+        Sub Mesh [-1]: (Area: 1430.81, Volume: 4802.9)
+            Sub Mesh [-1]: (Area: 933.36, Volume: 2702.25)
+            Sub Mesh [-1]: (Area: 497.45, Volume: 2100.65)
+        Sub Mesh [-1]: (Area: 1362.34, Volume: 3252.45)
+            Sub Mesh [-1]: (Area: 712.107, Volume: 1562.25)
+            Sub Mesh [-1]: (Area: 650.23, Volume: 1690.2)
+Subdividing result...
+MESH ERROR: Mesh is not closed!MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [12]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [9]: (Area: 2557.91, Volume: 6894.84)
+        Sub Mesh [1]: (Area: 1167.61, Volume: 2632.52)
+        Sub Mesh [10]: (Area: 1390.3, Volume: 4262.32)
+            Sub Mesh [3]: (Area: 849.889, Volume: 2545.18)
+            Sub Mesh [4]: (Area: 540.413, Volume: 1717.14)
+    Sub Mesh [13]: (Area: 2793.15, Volume: 8055.35)
+        Sub Mesh [8]: (Area: 1430.81, Volume: 4802.9)
+            Sub Mesh [2]: (Area: 933.36, Volume: 2702.25)
+            Sub Mesh [6]: (Area: 497.45, Volume: 2100.65)
+        Sub Mesh [11]: (Area: 1362.34, Volume: 3252.45)
+            Sub Mesh [5]: (Area: 712.107, Volume: 1562.25)
+            Sub Mesh [7]: (Area: 650.23, Volume: 1690.2)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 1185.5 ms.
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 2626
+Best (2992.59):
+(0x7f1fa4008440: 2630.85)
+(0x7f1fa4030240: 2239.95)
+(0x7f1fa4002760: 2992.59)
+(0x7f1fa4011540: 2644.21)
+(0x7f1fa408bbe0: 2317.18)
+(0x7f1fa410ba80: 2125.42)
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 3034.7, Volume: 8267.64)
+        Sub Mesh [-1]: (Area: 1963.9, Volume: 5275.05)
+            Sub Mesh [-1]: (Area: 907.721, Volume: 2630.85)
+            Sub Mesh [-1]: (Area: 1056.18, Volume: 2644.21)
+        Sub Mesh [-1]: (Area: 1070.8, Volume: 2992.59)
+    Sub Mesh [-1]: (Area: 2316.36, Volume: 6682.55)
+        Sub Mesh [-1]: (Area: 589.25, Volume: 2239.95)
+        Sub Mesh [-1]: (Area: 1727.11, Volume: 4442.6)
+            Sub Mesh [-1]: (Area: 899.405, Volume: 2317.18)
+            Sub Mesh [-1]: (Area: 827.703, Volume: 2125.42)
+Subdividing result...
+MESH ERROR: Mesh is not closed!MESH ERROR: Mesh is not closed!MESH ERROR: Mesh is not closed!
+
+
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+MESH ERROR: Mesh is not closed!MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [12]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [9]: (Area: 3034.7, Volume: 8267.64)
+        Sub Mesh [10]: (Area: 1963.9, Volume: 5275.05)
+            Sub Mesh [1]: (Area: 907.721, Volume: 2630.85)
+            Sub Mesh [4]: (Area: 1056.18, Volume: 2644.21)
+        Sub Mesh [3]: (Area: 1070.8, Volume: 2992.59)
+    Sub Mesh [13]: (Area: 2316.36, Volume: 6682.55)
+        Sub Mesh [8]: (Area: 589.25, Volume: 2239.95)
+            Sub Mesh [2]: (Area: 386.594, Volume: 1162.47)
+            Sub Mesh [7]: (Area: 202.656, Volume: 1077.48)
+        Sub Mesh [11]: (Area: 1727.11, Volume: 4442.6)
+            Sub Mesh [5]: (Area: 899.405, Volume: 2317.18)
+            Sub Mesh [6]: (Area: 827.703, Volume: 2125.42)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 1332.98 ms.
+Validating mesh...
+MESH ERROR: Mesh is not closed!
+
+Decomposing Mesh...
+-----------------------
+Creating options tree from mesh...
+Finding best decomposition configuration...
+Exploration Results:
+Printer Array States Found: 6634
+Best (2510.67):
+(0x55694731d440: 2501.54)
+(0x55694736f0c0: 2453.31)
+(0x5569472e41d0: 2463.03)
+(0x5569473597b0: 2510.67)
+(0x5569474702e0: 2139.74)
+(0x5569472ff440: 1554.59)
+(0x5569474924d0: 1327.31)
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+[Empty]
+Subdivision Tree:
+Base Mesh [-1]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [-1]: (Area: 2629.99, Volume: 7475.24)
+        Sub Mesh [-1]: (Area: 1839.24, Volume: 5012.21)
+            Sub Mesh [-1]: (Area: 1042.52, Volume: 2501.54)
+            Sub Mesh [-1]: (Area: 796.72, Volume: 2510.67)
+        Sub Mesh [-1]: (Area: 790.752, Volume: 2463.03)
+    Sub Mesh [-1]: (Area: 2721.07, Volume: 7474.95)
+        Sub Mesh [-1]: (Area: 1560.27, Volume: 4007.9)
+            Sub Mesh [-1]: (Area: 870.034, Volume: 2453.31)
+            Sub Mesh [-1]: (Area: 690.238, Volume: 1554.59)
+        Sub Mesh [-1]: (Area: 1160.79, Volume: 3467.05)
+            Sub Mesh [-1]: (Area: 815.83, Volume: 2139.74)
+            Sub Mesh [-1]: (Area: 344.964, Volume: 1327.31)
+Subdividing result...
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+MESH ERROR: Mesh is not closed!
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 1: Mesh below minimum constraint.
+Node 2: Mesh below minimum constraint.
+Assigning IDs...
+Subdivision Tree:
+Base Mesh [23]: (Area: 5351.06, Volume: 14950.2)
+    Sub Mesh [22]: (Area: 2629.99, Volume: 7475.24)
+        Sub Mesh [21]: (Area: 1839.24, Volume: 5012.21)
+            Sub Mesh [15]: (Area: 1042.52, Volume: 2501.54)
+                Sub Mesh [1]: (Area: 451.217, Volume: 1426.45)
+                Sub Mesh [8]: (Area: 591.304, Volume: 1075.08)
+            Sub Mesh [16]: (Area: 796.72, Volume: 2510.67)
+                Sub Mesh [4]: (Area: 292.024, Volume: 741.8)
+                Sub Mesh [9]: (Area: 504.695, Volume: 1768.87)
+        Sub Mesh [17]: (Area: 790.752, Volume: 2463.03)
+            Sub Mesh [3]: (Area: 454.733, Volume: 1255.2)
+            Sub Mesh [10]: (Area: 336.019, Volume: 1207.84)
+    Sub Mesh [20]: (Area: 2721.07, Volume: 7474.95)
+        Sub Mesh [14]: (Area: 1560.27, Volume: 4007.9)
+            Sub Mesh [13]: (Area: 870.034, Volume: 2453.31)
+                Sub Mesh [2]: (Area: 581.318, Volume: 1283.33)
+                Sub Mesh [11]: (Area: 288.715, Volume: 1169.98)
+            Sub Mesh [6]: (Area: 690.238, Volume: 1554.59)
+        Sub Mesh [19]: (Area: 1160.79, Volume: 3467.05)
+            Sub Mesh [18]: (Area: 815.83, Volume: 2139.74)
+                Sub Mesh [5]: (Area: 389, Volume: 1241.07)
+                Sub Mesh [12]: (Area: 426.831, Volume: 898.671)
+            Sub Mesh [7]: (Area: 344.964, Volume: 1327.31)
+Exporting nodes as mesh files, plus assembly instructions.
+Computational Duration: 1632.75 ms.
